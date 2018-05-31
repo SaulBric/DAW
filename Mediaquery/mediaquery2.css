@@ -1,0 +1,19 @@
+/*Aqui van los estilos en general*/
+@media only screen and ( max-width: 480px){
+  body {
+    background-color: #F8C471;
+  }
+  header .logo{
+    float: none;
+    width: 100%;
+    display: block;
+  }
+  header .logo img{
+    display: none;
+  }
+  head .logo span{
+    font-weight: bold;
+    font-size: 15px;
+
+  }
+}
